@@ -1,6 +1,6 @@
-**IBM E-Plant Ecommerece Lab: Redone**
+**IBM E-Plant Ecommerce Lab: Redone**
 
-_Enhanced ProductList with 3x3 Grid and Card Delete Features_
+_Enhanced ProductList with 3x3 Grid and Card Delete Features_ 
 **Project Overview**
 The IBM Lab aims to revamp and enhance the existing ProductList component in our React application. This initiative focuses on implementing significant improvements, including a 3 by 3 grid layout for project cards and the addition of a card delete feature, enhancing both user experience and functionality.
 
